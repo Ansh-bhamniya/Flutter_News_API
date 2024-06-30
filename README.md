@@ -17,10 +17,6 @@ Don't forget to like, subscribe, and hit the notification bell to stay updated o
 
 **Server:** News.org api
 
-# ScreenShort
-
-![App ScreenShort](https://docs.google.com/document/d/e/2PACX-1vQ7f6lfzO55AVwXqKn9a9hwwUTmEka0rQHg148AhPJwimYht6dqCWQy3u1P6C_uDt-_infd_IH_hEjS/pub)
-
 
 ## Author 
 - [@Ansh bhamniya](https://www.linkedin.com/in/ansh-bhamniya-98b680258/)
