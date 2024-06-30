@@ -1,21 +1,23 @@
 # NEWS APP IN FLUTTER WITH API
 
-In this playlist, we'll guide you through the step-by-step process of building a feature-rich News App in Flutter, making it an absolute breeze with the power of Getx and a seamless API integration.
+I’m excited to share my journey in building a feature-rich News App with Flutter, using the power of GetX for state management and seamless API integration.
 
-Learn how to fetch real-time news data from the best news API, ensuring your app stays up-to-date and dynamic!
+I’ll be fetching live news updates to keep the app dynamic and engaging. By utilizing Flutter GetX and Provider, I aim to create a smooth and responsive user experience.
 
-Harness the power of Flutter GetX and Provider for state management, creating a smooth and responsive user experience!
+I’ll also explore best practices and techniques to design a stunning News App UI, incorporating FlutterHero for enhanced visual appeal.
 
-Dive into the world of FlutterHero as we explore the best practices and techniques to craft a stunning News App UI! 
+Whether you're experienced with Flutter or just starting out, I hope you find something valuable in this project. Let’s create the ultimate News App together!
 
-Whether you're a seasoned developer or just starting your Flutter journey, this playlist has something for everyone. Join us in creating the BEST News App in Flutter!
-
-Don't forget to like, subscribe, and hit the notification bell to stay updated on every exciting episode of our Flutter News App series! Let's code with joy and build something extraordinary together! |
+Don’t forget to like, subscribe, and hit the notification bell to stay updated on my progress. Let’s code with passion and build something amazing!
 ## Tech Stack
 
 **Client:** Flutter
 
 **Server:** News.org api
+
+# ScreenShort
+
+![App ScreenShort](https://docs.google.com/document/d/e/2PACX-1vQ7f6lfzO55AVwXqKn9a9hwwUTmEka0rQHg148AhPJwimYht6dqCWQy3u1P6C_uDt-_infd_IH_hEjS/pub)
 
 
 ## Author 
